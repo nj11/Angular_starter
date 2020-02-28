@@ -1,0 +1,8 @@
+rootProject.name = 'parent'
+
+//project dependencies
+include   ':client', ':server'
+
+//Use project keyword to define the location.
+project(':client').projectDir = new File(settingsDir, './client')
+project(':server').projectDir = new File(settingsDir, './server')
