@@ -1,6 +1,7 @@
-# Simple App Using Angular 8 as Front End and Spring Boot 2 as the Server
+### Simple App to get you quickly started on building full stack application using Angular 8 and Spring Boot 2 .
+#### Demonstrates usage of angular material libraries for frontend development, gradle for builds and  deployment on amazon beanstalk.
 
-## Prerequites to Run the Application
+### Prerequites to Run the Application
 
 ### Install NodeJS
 
@@ -51,9 +52,13 @@ The Application runs on **localhost:8080** and the application runs in a embedde
 
 ## Screenshots
 
-![image](https://user-images.githubusercontent.com/17017086/51055985-338b4e00-15a7-11e9-9088-2c7bea5542e7.png)
 
-![image](https://user-images.githubusercontent.com/17017086/51056018-46058780-15a7-11e9-89e4-b2f8e827209d.png)
+![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/home.png)
 
-![image](https://user-images.githubusercontent.com/17017086/51056028-5453a380-15a7-11e9-8f5c-c179121fbd8b.png)
+![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/mattableserver.png)
+
+
+![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/mattableclient.png)
+
+
        
