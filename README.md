@@ -55,8 +55,12 @@ The Application runs on **localhost:8080** and the application runs in a embedde
 
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/home.png)
 
+Material table datasource <mat-table> with server side pagination and sorting and expandable rows.
+
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/mattableserver.png)
 
+
+Material table datasource <mat-table> with client side pagination and sorting and exportable content.
 
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/mattableclient.png)
 
