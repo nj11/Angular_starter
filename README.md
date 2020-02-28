@@ -67,24 +67,38 @@ Material table datasource <mat-table> with client side pagination and sorting an
 
 ## AWS Beanstalk deployment
 
-####Create AWS account.
-
-
+Sign in to to AWS console using your account and create a new application.
        
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws1.png)
 
+Select the appropriate tier.In this case we are selecting Web server environment.
+
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws2.png)
+
+Enter your application details.
 
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws3.png)
 
+Enter application platform, in this case it's Java
+
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws4.png)
 
+For now choose sample application.We will upload and deploy application war later.
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws5.png)
+
+Environment creation takes a few minutes.
 
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws6.png)
 
+Once the environment is ready, click on the enviornment name link as highlighted.
+
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws7.png)
 
+You can check the environment page, along with configuration details like enviornment variables,logs and application URL.
+Click on upload and deploy to upload your war to the new environment.
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws8.png)
+    
+    
+![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws9.png)
 
 
