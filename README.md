@@ -71,9 +71,10 @@ Sign in to to AWS console using your account and create a new application.
        
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws1.png)
 
-Select the appropriate tier.In this case we are selecting Web server environment.
 
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws2.png)
+
+Select the appropriate tier.In this case we are selecting Web server environment.
 
 Enter your application details.
 
