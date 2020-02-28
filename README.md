@@ -65,4 +65,26 @@ Material table datasource <mat-table> with client side pagination and sorting an
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/mattableclient.png)
 
 
+## AWS Beanstalk deployment
+
+####Create AWS account.
+
+
        
+![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws1.png)
+
+![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws2.png)
+
+![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws3.png)
+
+![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws4.png)
+
+![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws5.png)
+
+![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws6.png)
+
+![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws7.png)
+
+![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws8.png)
+
+
