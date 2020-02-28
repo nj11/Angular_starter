@@ -67,7 +67,8 @@ Material table datasource <mat-table> with client side pagination and sorting an
 
 ## AWS Beanstalk deployment
 
-Sign in to to AWS console using your account and create a new application.
+Sign in to to AWS console using your account .Navigate to ```My Account--> AWS Management Console.```
+Go to  ```Services-->Elastic beanstalk```   and then select ```Create a new application.```
        
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws1.png)
 
