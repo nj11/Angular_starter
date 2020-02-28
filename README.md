@@ -1,5 +1,5 @@
 ### Simple App to get you quickly started on building full stack application using Angular 8 and Spring Boot 2 .
-#### Demonstrates usage of angular material libraries like material table,materal dialog,material reactive forms,snackbar etc for frontend development, gradle for builds and  deployment on amazon beanstalk.
+#### Demonstrates usage of angular material libraries like material table,materal dialog,material reactive forms,snackbar etc for frontend development, gradle for builds and  steps for deployment on amazon beanstalk.
 
 ### Prerequites to Run the Application
 
