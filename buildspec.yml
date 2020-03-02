@@ -1,6 +1,5 @@
 version: 0.2
 
-
 phases:
   install:
     runtime-versions:
@@ -18,4 +17,6 @@ phases:
 
 artifacts:
   files:
-    - server/build/libs/starterapp.war
+    - server/build/libs/starterapp-1.0.0-SNAPSHOT.jar
+
+
