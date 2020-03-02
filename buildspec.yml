@@ -9,7 +9,7 @@ phases:
       - java -version
       - echo Build started on `date`
       - NODE_OPTIONS="--max-old-space-size=4096"
-      - gradlew clean build
+      - ./gradlew clean build
   post_build:
     commands:
       - echo Build completed on `date`
