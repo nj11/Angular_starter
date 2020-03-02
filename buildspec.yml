@@ -1,8 +1,12 @@
 version: 0.2
 
 phases:
+  install:
+    runtime-versions:
+      java: corretto8
   build:
     commands:
+      - java -version
       - echo Build started on `date`
       - NODE_OPTIONS="--max-old-space-size=4096"
       - gradlew clean build
@@ -13,4 +17,3 @@ phases:
 artifacts:
   files:
     - Angular-starter/server/build/libs/starterapp.war
-
