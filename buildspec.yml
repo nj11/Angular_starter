@@ -1,0 +1,16 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo Build started on `date`
+      - NODE_OPTIONS="--max-old-space-size=4096"
+      - gradlew clean build
+  post_build:
+    commands:
+      - echo Build completed on `date`
+
+artifacts:
+  files:
+    - Angular-starter/server/build/libs/starterapp.war
+

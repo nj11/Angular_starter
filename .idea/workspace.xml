@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="782e5f86-b016-4ab7-9f61-8f7acc9e1e7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/buildspec.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/app/interceptors/http-interceptor.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/app/pages/errordialog/errordialogservice.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/app/pages/home/menuitemservice.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/app/routing/app.routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.6/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/angular.json" afterDir="false" />
@@ -24,12 +34,14 @@
       <change beforePath="$PROJECT_DIR$/client/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/main.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/server/build.gradle" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/client/node_modules/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/client/build/" />
     <ignored path="$PROJECT_DIR$/client/out/" />
     <ignored path="$PROJECT_DIR$/server/build/" />
+    <ignored path="$PROJECT_DIR$/server/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,15 +57,30 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="263">
-                <caret line="70" column="39" selection-start-line="70" selection-start-column="39" selection-end-line="70" selection-end-column="39" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/buildspec.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -136,13 +163,17 @@
         <option value="$PROJECT_DIR$/server/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/client/package.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/client/build.gradle" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/server/build.gradle" />
+        <option value="$PROJECT_DIR$/buildspec.yml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-15" />
-    <option name="width" value="3860" />
-    <option name="height" value="2075" />
+    <option name="width" value="3861" />
+    <option name="height" value="2076" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -151,6 +182,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,11 +190,15 @@
               <item name="Angular-starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="Angular-starter" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Angular-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -225,12 +261,14 @@
       <workItem from="1574269843029" duration="2493000" />
       <workItem from="1580309135581" duration="1759000" />
       <workItem from="1582832546376" duration="9706000" />
-      <workItem from="1582901639100" duration="10001000" />
+      <workItem from="1582901639100" duration="10046000" />
+      <workItem from="1583159899993" duration="8000" />
+      <workItem from="1583161386603" duration="5951000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54887000" />
+    <option name="totallyTimeSpent" value="60891000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -242,10 +280,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
+    <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24144869" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24135189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -264,7 +302,7 @@
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007943" side_tool="true" weight="0.45489892" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4992057" weight="0.57708627" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4992057" visible="true" weight="0.57677317" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32969603" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="bottom" id="Version Control" order="16" />
@@ -280,7 +318,7 @@
       <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24144869" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24135189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -292,14 +330,14 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32956153" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="TypeScript" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007943" side_tool="true" weight="0.45489892" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4992057" weight="0.57708627" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.4992057" visible="true" weight="0.57677317" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32969603" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="bottom" id="Version Control" order="16" />
@@ -319,45 +357,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/example/demo/models/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#160#161#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#250#251#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#436#437#0" expanded="true" />
-            <element signature="e#472#473#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#668#669#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/app/pages/datatableserver/datatableserver.module.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="28" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/app/pages/expandablerow/expandablerow.module.ts" />
     <entry file="file://$PROJECT_DIR$/client/src/app/pages/expandablerow/expandablerow-routing.module.ts" />
     <entry file="file://$USER_HOME$/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/TPNRRIEG/PregisConstants.groovy" />
     <entry file="file://$PROJECT_DIR$/client/src/app/pages/expandablerow/expandablerow.component.ts" />
@@ -644,23 +643,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/example/demo/controller/ForwardController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/example/demo/controller/ApiController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/example/demo/controller/ForwardController.java" />
+    <entry file="file://$PROJECT_DIR$/server/src/main/java/com/example/demo/controller/ApiController.java" />
     <entry file="file://$PROJECT_DIR$/client/angular.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -682,16 +666,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server/build.gradle">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="263">
-            <caret line="70" column="39" selection-start-line="70" selection-start-column="39" selection-end-line="70" selection-end-column="39" />
+          <first_editor relative-caret-position="519">
+            <caret line="71" column="7" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildspec.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
         </state>
       </provider>
     </entry>

@@ -5,7 +5,10 @@ allprojects  {
   //Put instructions for all projects
  group = 'com.example.demo'
  version = '1.0.0-SNAPSHOT'
+
 }
+
+
 
 subprojects {
   apply plugin: 'java'
