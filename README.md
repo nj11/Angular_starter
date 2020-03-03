@@ -85,7 +85,7 @@ Enter application platform, in this case it's Java
 
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws4.png)
 
-For now choose sample application.We will upload and deploy application war later.
+For now choose sample application.We will upload and deploy application jar later.
 ![Alt desc](https://github.com/nj11/Angular_starter/blob/master/screenshots/aws5.png)
 
 Environment creation takes a few minutes.
