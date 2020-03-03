@@ -6,7 +6,6 @@
       <change afterPath="$PROJECT_DIR$/client/src/app/pages/errordialog/errordialogservice.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/app/pages/home/menuitemservice.ts" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/client/src/app/routing/app.routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client" beforeDir="false" afterPath="$PROJECT_DIR$/client" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/client/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/angular.json" afterDir="false" />
@@ -46,20 +45,7 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="52">
-                <caret line="87" column="75" selection-start-line="87" selection-start-column="75" selection-end-line="87" selection-end-column="75" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -163,6 +149,11 @@
               <item name="Angular-starter" type="b2602c69:ProjectViewProjectNode" />
               <item name="Angular-starter" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Angular-starter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -237,7 +228,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67169000" />
+    <option name="totallyTimeSpent" value="67446000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,7 +241,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24333996" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -271,7 +261,7 @@
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007943" side_tool="true" weight="0.45489892" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32956153" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4992057" visible="true" weight="0.5759938" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.4992057" visible="true" weight="0.3016368" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32969603" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="bottom" id="Version Control" order="16" />
@@ -680,8 +670,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="52">
-            <caret line="87" column="75" selection-start-line="87" selection-start-column="75" selection-end-line="87" selection-end-column="75" />
+          <first_editor relative-caret-position="166">
+            <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
           </first_editor>
           <second_editor />
         </state>
