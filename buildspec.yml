@@ -14,11 +14,10 @@ phases:
   post_build:
     commands:
       - echo Build completed on `date`
-      - cp server/build/libs/**  .
 
 
 artifacts:
   files:
-    - ./starterapp-1.0.0-SNAPSHOT.jar
+    - server/build/libs/starterapp-1.0.0-SNAPSHOT.jar
 
 
